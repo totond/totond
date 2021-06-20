@@ -1,3 +1,6 @@
+富途正在招聘各类岗位，详见[链接](https://app.mokahr.com/recommendation-apply/futu5/1699?sharePageId=630226&recommendCode=ABEse&codeType=1#/recommendation/page/630226
+)
+
 [![totond's github stats](https://github-readme-stats.vercel.app/api?username=totond&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
